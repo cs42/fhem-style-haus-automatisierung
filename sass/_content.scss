@@ -153,14 +153,16 @@
     }
 
     .SVGlabel {
-        background: #f5f6f9;
+        //background: #f5f6f9;
         padding: 5px;
     }
 
     .devType {
+        font-family: "Roboto Condensed";
+        font-weight: normal;
         font-size: 20px;
         text-transform: uppercase;
-        letter-spacing: 10px;
+        //letter-spacing: 10px;
         margin-top: 10px;
         
         a {

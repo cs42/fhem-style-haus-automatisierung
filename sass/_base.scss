@@ -1,8 +1,9 @@
 body {
-    background: #354d69 url(../hausautomatisierung-com/images/bg_wrapper.jpg) no-repeat center 0 fixed;
+    background: #111755; //#354d69 ;
     color: #fff;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: $default-fontsize;
+    font-weight: 300;
     margin: 0 auto;
     padding: 0;
     tab-size: 4;
@@ -74,7 +75,7 @@ input[type="text"] {
 
     input.maininput {
         color: #fff;
-        width: 1000px;
+        //width: 1000px;
         font-size: $large-fontsize;
         box-sizing: border-box;
 
